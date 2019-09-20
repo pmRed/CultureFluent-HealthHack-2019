@@ -10,6 +10,6 @@ RUN npm install -g gatsby-cli
 
 RUN npm install
 
-CMD [ "npm", "run", "build" ]
+RUN gatsby build
 
 CMD [ "gatsby", "serve" ]
