@@ -5,7 +5,7 @@
   "author": "Prithvi Reddy <prithvi@thaum.io>",
   "dependencies": {
     "faker": "^4.1.0",
-    "gatsby": "^2.15.19",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-less": "^3.0.7",
     "gatsby-plugin-react-helmet": "^3.1.8",
     "less": "^3.10.3",
